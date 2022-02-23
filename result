@@ -1,0 +1,21 @@
+Start1
+    "End1"    "time="    "18.9361"
+
+Start2
+     1   546
+
+    "Sum="    "958577"    "Length="    "536"    "Start and End="    "2"    "3863"    "time="    "0.015704"
+
+
+if you dont use
+ if(js>1 && sA-A(js-1)+2*A(RecJe)>n)
+        disp([js-1,je])
+        break
+ end
+ 
+ it will take 15 seconds.
+ 
+ Note: we are not using any matrix :-)
+ If results are saved in matrix, it will give memory overflow.
+ 
+ 
